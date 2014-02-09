@@ -1,4 +1,5 @@
 simple_shell
 ============
 
-a simple shell
+University assignment.
+A simple shell.
